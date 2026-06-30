@@ -1,0 +1,13 @@
+[Unit]
+Description=ChannelSaveBot Telegram Bot
+After=network.target
+
+[Service]
+Type=simple
+User=ubuntu
+WorkingDirectory=/home/ubuntu/behzod/github/ChannelSaveBot/app
+ExecStart=/home/ubuntu/behzod/github/ChannelSaveBot/venv/bin/python main.py
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
