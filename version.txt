@@ -1,2 +1,3 @@
+v 1.0.2 => main: Keyingi qilinadigan ish next.txt da qayd qilindi.
 v 1.0.1 => main: 16 xonali unikal kod har bir userda bo'ladi va uning public qismi orqali boshqalar uni kanal guruh va botini ko'ra oladi. Botlar qo'shildi.
 v 1.0.0 => main: Githubga joylanmoqda.
