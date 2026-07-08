@@ -1,0 +1,1 @@
+# Bu botni ishlatish yo'riqnomasi

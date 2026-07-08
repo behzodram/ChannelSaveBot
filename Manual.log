@@ -1,0 +1,328 @@
+(venv) ubuntu@ip-172-31-47-20:~/behzod/github/ChannelSaveBot/app$ python main.py
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @ChannelGroupsSaverBot id=8838138413 - 'Kanal Saqla bot'
+INFO:aiogram.event:Update id=133585205 is not handled. Duration 7 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585201 is handled. Duration 114 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585202 is handled. Duration 135 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585203 is handled. Duration 155 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585204 is handled. Duration 180 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585206 is handled. Duration 56 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585207 is handled. Duration 49 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585208 is handled. Duration 60 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585209 is handled. Duration 54 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585210 is handled. Duration 81 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585211 is handled. Duration 51 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585212 is handled. Duration 87 ms by bot id=8838138413
+/home/ubuntu/behzod/github/ChannelSaveBot/app/main.py:112: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  expires_at = (datetime.utcnow() + timedelta(minutes=minutes)).strftime("%Y-%m-%d %H:%M:%S")
+/home/ubuntu/behzod/github/ChannelSaveBot/app/main.py:820: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  (datetime.utcnow() + timedelta(minutes=minutes)).strftime("%Y-%m-%d %H:%M:%S")
+/home/ubuntu/behzod/github/ChannelSaveBot/app/main.py:182: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  diff = exp - datetime.utcnow()
+INFO:aiogram.event:Update id=133585213 is handled. Duration 124 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585214 is handled. Duration 71 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585215 is handled. Duration 49 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585216 is handled. Duration 61 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585217 is handled. Duration 50 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585218 is handled. Duration 98 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585219 is handled. Duration 47 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585220 is handled. Duration 54 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585221 is handled. Duration 55 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585222 is handled. Duration 118 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585223 is handled. Duration 84 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585224 is handled. Duration 139 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585225 is handled. Duration 105 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585226 is handled. Duration 152 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585227 is handled. Duration 77 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585228 is handled. Duration 77 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585229 is handled. Duration 63 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585230 is handled. Duration 81 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585231 is handled. Duration 81 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585232 is handled. Duration 127 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585233 is handled. Duration 61 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585234 is handled. Duration 84 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585235 is handled. Duration 129 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585236 is handled. Duration 122 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585237 is handled. Duration 53 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585238 is handled. Duration 77 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585239 is handled. Duration 81 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585240 is handled. Duration 188 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585241 is handled. Duration 48 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585242 is handled. Duration 85 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585243 is handled. Duration 111 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585244 is handled. Duration 79 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585245 is handled. Duration 79 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585246 is handled. Duration 506 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585247 is handled. Duration 91 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585248 is handled. Duration 45 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585249 is handled. Duration 71 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585250 is handled. Duration 253 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585251 is handled. Duration 93 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585252 is not handled. Duration 1 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585253 is handled. Duration 47 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585254 is handled. Duration 89 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585255 is handled. Duration 199 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585256 is handled. Duration 91 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585257 is handled. Duration 50 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585258 is handled. Duration 98 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585259 is handled. Duration 195 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585260 is handled. Duration 80 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585261 is handled. Duration 54 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585262 is handled. Duration 334 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585263 is not handled. Duration 51 ms by bot id=8838138413
+ERROR:aiogram.event:Cause exception while process update id=133585263 by bot id=8838138413
+ValidationError: 1 validation error for CallbackQuery
+data
+  Instance is frozen [type=frozen_instance, input_value='item_13', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/frozen_instance
+Traceback (most recent call last):
+  File "/home/ubuntu/behzod/github/ChannelSaveBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/dispatcher.py", line 320, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/behzod/github/ChannelSaveBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/behzod/github/ChannelSaveBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/middlewares/error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/behzod/github/ChannelSaveBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/behzod/github/ChannelSaveBot/venv/lib/python3.12/site-packages/aiogram/fsm/middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/behzod/github/ChannelSaveBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/behzod/github/ChannelSaveBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/home/ubuntu/behzod/github/ChannelSaveBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/dispatcher.py", line 283, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/behzod/github/ChannelSaveBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/router.py", line 165, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/behzod/github/ChannelSaveBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/router.py", line 157, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/behzod/github/ChannelSaveBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/router.py", line 185, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/behzod/github/ChannelSaveBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/behzod/github/ChannelSaveBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/home/ubuntu/behzod/github/ChannelSaveBot/app/main.py", line 1120, in toggle_visibility
+    callback.data = f"item_{record_id}"
+    ^^^^^^^^^^^^^
+  File "/home/ubuntu/behzod/github/ChannelSaveBot/venv/lib/python3.12/site-packages/pydantic/main.py", line 1048, in __setattr__
+    elif (setattr_handler := self._setattr_handler(name, value)) is not None:
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/behzod/github/ChannelSaveBot/venv/lib/python3.12/site-packages/pydantic/main.py", line 1084, in _setattr_handler
+    _check_frozen(cls, name, value)
+  File "/home/ubuntu/behzod/github/ChannelSaveBot/venv/lib/python3.12/site-packages/pydantic/main.py", line 90, in _check_frozen
+    raise ValidationError.from_exception_data(
+pydantic_core._pydantic_core.ValidationError: 1 validation error for CallbackQuery
+data
+  Instance is frozen [type=frozen_instance, input_value='item_13', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/frozen_instance
+INFO:aiogram.event:Update id=133585264 is handled. Duration 47 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585265 is handled. Duration 134 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585266 is handled. Duration 125 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585267 is handled. Duration 465 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585268 is not handled. Duration 61 ms by bot id=8838138413
+ERROR:aiogram.event:Cause exception while process update id=133585268 by bot id=8838138413
+ValidationError: 1 validation error for CallbackQuery
+data
+  Instance is frozen [type=frozen_instance, input_value='item_12', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/frozen_instance
+Traceback (most recent call last):
+  File "/home/ubuntu/behzod/github/ChannelSaveBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/dispatcher.py", line 320, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/behzod/github/ChannelSaveBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/behzod/github/ChannelSaveBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/middlewares/error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/behzod/github/ChannelSaveBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/behzod/github/ChannelSaveBot/venv/lib/python3.12/site-packages/aiogram/fsm/middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/behzod/github/ChannelSaveBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/behzod/github/ChannelSaveBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/home/ubuntu/behzod/github/ChannelSaveBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/dispatcher.py", line 283, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/behzod/github/ChannelSaveBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/router.py", line 165, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/behzod/github/ChannelSaveBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/router.py", line 157, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/behzod/github/ChannelSaveBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/router.py", line 185, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/behzod/github/ChannelSaveBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/behzod/github/ChannelSaveBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/home/ubuntu/behzod/github/ChannelSaveBot/app/main.py", line 1120, in toggle_visibility
+    callback.data = f"item_{record_id}"
+    ^^^^^^^^^^^^^
+  File "/home/ubuntu/behzod/github/ChannelSaveBot/venv/lib/python3.12/site-packages/pydantic/main.py", line 1048, in __setattr__
+    elif (setattr_handler := self._setattr_handler(name, value)) is not None:
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/behzod/github/ChannelSaveBot/venv/lib/python3.12/site-packages/pydantic/main.py", line 1084, in _setattr_handler
+    _check_frozen(cls, name, value)
+  File "/home/ubuntu/behzod/github/ChannelSaveBot/venv/lib/python3.12/site-packages/pydantic/main.py", line 90, in _check_frozen
+    raise ValidationError.from_exception_data(
+pydantic_core._pydantic_core.ValidationError: 1 validation error for CallbackQuery
+data
+  Instance is frozen [type=frozen_instance, input_value='item_12', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/frozen_instance
+INFO:aiogram.event:Update id=133585269 is handled. Duration 51 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585270 is handled. Duration 355 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585271 is not handled. Duration 60 ms by bot id=8838138413
+ERROR:aiogram.event:Cause exception while process update id=133585271 by bot id=8838138413
+ValidationError: 1 validation error for CallbackQuery
+data
+  Instance is frozen [type=frozen_instance, input_value='item_11', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/frozen_instance
+Traceback (most recent call last):
+  File "/home/ubuntu/behzod/github/ChannelSaveBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/dispatcher.py", line 320, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/behzod/github/ChannelSaveBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/behzod/github/ChannelSaveBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/middlewares/error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/behzod/github/ChannelSaveBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/behzod/github/ChannelSaveBot/venv/lib/python3.12/site-packages/aiogram/fsm/middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/behzod/github/ChannelSaveBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/behzod/github/ChannelSaveBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/home/ubuntu/behzod/github/ChannelSaveBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/dispatcher.py", line 283, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/behzod/github/ChannelSaveBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/router.py", line 165, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/behzod/github/ChannelSaveBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/router.py", line 157, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/behzod/github/ChannelSaveBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/router.py", line 185, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/behzod/github/ChannelSaveBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/behzod/github/ChannelSaveBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/home/ubuntu/behzod/github/ChannelSaveBot/app/main.py", line 1120, in toggle_visibility
+    callback.data = f"item_{record_id}"
+    ^^^^^^^^^^^^^
+  File "/home/ubuntu/behzod/github/ChannelSaveBot/venv/lib/python3.12/site-packages/pydantic/main.py", line 1048, in __setattr__
+    elif (setattr_handler := self._setattr_handler(name, value)) is not None:
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/behzod/github/ChannelSaveBot/venv/lib/python3.12/site-packages/pydantic/main.py", line 1084, in _setattr_handler
+    _check_frozen(cls, name, value)
+  File "/home/ubuntu/behzod/github/ChannelSaveBot/venv/lib/python3.12/site-packages/pydantic/main.py", line 90, in _check_frozen
+    raise ValidationError.from_exception_data(
+pydantic_core._pydantic_core.ValidationError: 1 validation error for CallbackQuery
+data
+  Instance is frozen [type=frozen_instance, input_value='item_11', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/frozen_instance
+INFO:aiogram.event:Update id=133585272 is handled. Duration 51 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585273 is handled. Duration 421 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585274 is not handled. Duration 40 ms by bot id=8838138413
+ERROR:aiogram.event:Cause exception while process update id=133585274 by bot id=8838138413
+ValidationError: 1 validation error for CallbackQuery
+data
+  Instance is frozen [type=frozen_instance, input_value='item_10', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/frozen_instance
+Traceback (most recent call last):
+  File "/home/ubuntu/behzod/github/ChannelSaveBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/dispatcher.py", line 320, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/behzod/github/ChannelSaveBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/behzod/github/ChannelSaveBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/middlewares/error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/behzod/github/ChannelSaveBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/behzod/github/ChannelSaveBot/venv/lib/python3.12/site-packages/aiogram/fsm/middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/behzod/github/ChannelSaveBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/behzod/github/ChannelSaveBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/home/ubuntu/behzod/github/ChannelSaveBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/dispatcher.py", line 283, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/behzod/github/ChannelSaveBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/router.py", line 165, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/behzod/github/ChannelSaveBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/router.py", line 157, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/behzod/github/ChannelSaveBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/router.py", line 185, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/behzod/github/ChannelSaveBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/behzod/github/ChannelSaveBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/home/ubuntu/behzod/github/ChannelSaveBot/app/main.py", line 1120, in toggle_visibility
+    callback.data = f"item_{record_id}"
+    ^^^^^^^^^^^^^
+  File "/home/ubuntu/behzod/github/ChannelSaveBot/venv/lib/python3.12/site-packages/pydantic/main.py", line 1048, in __setattr__
+    elif (setattr_handler := self._setattr_handler(name, value)) is not None:
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/behzod/github/ChannelSaveBot/venv/lib/python3.12/site-packages/pydantic/main.py", line 1084, in _setattr_handler
+    _check_frozen(cls, name, value)
+  File "/home/ubuntu/behzod/github/ChannelSaveBot/venv/lib/python3.12/site-packages/pydantic/main.py", line 90, in _check_frozen
+    raise ValidationError.from_exception_data(
+pydantic_core._pydantic_core.ValidationError: 1 validation error for CallbackQuery
+data
+  Instance is frozen [type=frozen_instance, input_value='item_10', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/frozen_instance
+INFO:aiogram.event:Update id=133585275 is handled. Duration 57 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585276 is handled. Duration 82 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585277 is handled. Duration 126 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585278 is handled. Duration 419 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585279 is handled. Duration 100 ms by bot id=8838138413
+INFO:aiogram.event:Update id=133585280 is handled. Duration 381 ms by bot id=8838138413
+^CWARNING:aiogram.dispatcher:Received SIGINT signal
+INFO:aiogram.dispatcher:Polling stopped for bot @ChannelGroupsSaverBot id=8838138413 - 'Kanal Saqla bot'
+INFO:aiogram.dispatcher:Polling stopped
