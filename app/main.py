@@ -411,16 +411,15 @@ def codes_list_kb(rows):
 @dp.message(Command("start"))
 async def cmd_start(message: types.Message):
     await message.answer(
-        "Salom!\n\n"
-        "📁 <b>Guruh</b> qo'shish uchun — guruhning public linkini yuboring "
-        "(<code>t.me/groupname</code> yoki <code>@groupname</code>)\n"
-        "📢 <b>Kanal</b> qo'shish uchun — kanaldan istalgan xabarni <b>forward</b> qiling\n"
-        "🤖 <b>Bot</b> qo'shish uchun — botdan istalgan xabarni <b>forward</b> qiling\n\n"
-        "Har bir saqlangan element 🔒 <b>shaxsiy</b> bo'lib qo'shiladi.\n\n"
-        "Pastdagi tugmalardan foydalaning 👇",
+        "🔐 <b>Telegram'ingizni tartibga soling.</b>\n\n"
+        "Faqat siz qo'shgan <b>Guruh</b>/<b>Kanal</b>/<b>Bot</b>lar ustida ishlayman. "
+        "Kerak bo'lmaganini arxivlayman, kerakini yo'qotmayman. "
+        "Ro'yxatingizni <b>muddatli kalit</b> orqali xohlagan odamga ko'rsating — "
+        "qolgan hammasidan yashiring.\n\n"
+        "👉 <b>Boshlash uchun</b> menga istalgan guruh linkini qo'shing yoki "
+        "kanal yoki botdan istalgan xabarni menga <b>forward</b> qiling.",
         reply_markup=persistent_kb()
     )
-
 
 # ==================== 📁 GURUHLAR ====================
 @dp.message(F.text == BTN_GROUPS)
