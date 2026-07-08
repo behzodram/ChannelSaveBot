@@ -1,5 +1,7 @@
 Last Request to Claude:
-    Kod orqali userni aytaylik 1 ta botini ko'rgandan keyin kodning o'zini "kod orqali ko'rish" button saqlab qolsin va unga nom berishi nomini o'zgartirishi yoki kodlar ro'yxatidan olib tashlashi mumkin bo'lsin.
+    Kod orqali userni aytaylik 1 ta botini ko'rgandan keyin kodning o'zini "kod orqali ko'rish" 
+    button saqlab qolsin va unga nom berishi nomini o'zgartirishi yoki kodlar ro'yxatidan olib 
+    tashlashi mumkin bo'lsin.
 
 Lekin fikrim o'zgardi.
     Userga berilgan uuid kod unikal bo'lishi lekin 
